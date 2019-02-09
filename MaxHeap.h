@@ -1,6 +1,5 @@
 //
 //  MaxHeap.h
-//  22C_HW5
 //
 
 #ifndef Heap_h
