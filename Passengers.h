@@ -1,6 +1,5 @@
 //
 //  Passengers.h
-//  22C_HW5
 //
 
 #ifndef Passengers_h
