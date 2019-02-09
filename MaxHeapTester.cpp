@@ -101,12 +101,8 @@ void readData(string fileName, MaxHeap<Passenger> &heap)
 //**************************************************
 void printInfo()
 {
-    cout << "CIS 22C-02Y\n";
-    cout << "M/W 1:30 - 3:20\n";
-    cout << "Professor Delia Gârbacea\n";
     cout << "Trinh Nguyen\n";
     cout << "March 15, 2017\n";
-    cout << "Homework #5\n\n";
     cout << "\t\t Build and Process a Heap Data Structure\n\n";
 }
 //***************************************************************
