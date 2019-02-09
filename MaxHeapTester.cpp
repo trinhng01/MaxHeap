@@ -1,21 +1,12 @@
-//
-//  CIS 22C - Winter 2017
-//  Homework 7
-//
 //  Build and process data in a heap
 //
-//  GRADING:
-//  Build heap from file – 25
-//  Print heap as an indented tree – 10 // show the serial number and the name of the customer
-//  Print customers in priority sequence – 25
-//  Heap class (ADT – for Extra Credit) – 25
-//  main(), and other functions – 10
-//  Self assessment – 5
-//
-//  Student Score: 100
-//
-//  Instructor Score:
-//
+//  Requirement:
+//  Build heap from file
+//  Print heap as an indented tree
+//  Print customers in priority sequence
+//  Heap class
+//  Template
+//  main(), and other functions
 
 #include "Passengers.h"
 #include "MaxHeap.h"
